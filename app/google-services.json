@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043014329103",
+    "project_id": "appteste-40eaf",
+    "storage_bucket": "appteste-40eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043014329103:android:172aa0c7944a3bb2dc547a",
+        "android_client_info": {
+          "package_name": "br.com.imepac.appteste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClNx2draAhrBg_eJws-Z_-RMCWZQyiSQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

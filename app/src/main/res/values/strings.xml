@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">AppTeste</string>
+
+    <!-- Generics -->
+    <string name="text_email">E-mail</string>
+    <string name="text_email_hint">email@example.com</string>
+    <string name="text_password">Senha</string>
+    <string name="text_password_hint">******</string>
+    <string name="error_generic">Ocorreu um erro,por favor tente novamente mais tarde.</string>
+
+    <string name="text_register_account">Criar conta</string>
+    <string name="text_recover_account">Recuperar conta</string>
+
+
+    <!-- Generics Buttons -->
+    <string name="btn_remove">Remover</string>
+    <string name="btn_edit">Editar</string>
+    <string name="btn_details">Detalhes</string>
+
+    <!-- Login Fragment -->
+    <string name="text_btn_login_fragment">Login</string>
+    <string name="text_email_empty_login_fragment">Informe seu e-mail.</string>
+    <string name="text_password_empty_login_fragment">Informe sua senha.</string>
+
+    <!-- Register Fragment -->
+    <string name="text_email_empty_register_fragment">Informe seu e-mail.</string>
+    <string name="text_password_empty_register_fragment">Informe sua senha.</string>
+
+    <!-- Recover Fragment -->
+    <string name="text_btn_recover_account_fragment">Enviar</string>
+    <string name="text_email_empty_recover_account_fragment">Informe seu e-mail.</string>
+    <string name="text_email_send_sucess_recover_account_fragment">Pronto acabamos de enviar um link para seu e-mail.</string>
+
+    <!-- Change Task-->
+    <string name="error_change_status">Erro ao alterar tarefa</string>
+    <string name="sucess_change_status">Sucesso ao alterar tarefa</string>
+
+    <!-- Status Task-->
+    <string name="status_task_todo">A Fazer</string>
+    <string name="status_task_doing">Executando</string>
+    <string name="status_task_done">Concluídas</string>
+
+    <!-- List Task -->
+    <string name="tasks_list_empty">Nenhuma tarefa cadastrada.</string>
+    <string name="tasks_list_loading">Carregando tarefas...</string>
+
+    <!-- Form Task Fragment -->
+    <string name="text_title_form_task_fragment">Nova tarefa</string>
+    <string name="text_title_edit_form_task_fragment">Editando tarefa...</string>
+
+    <string name="text_description_form_task_fragment">Descrição</string>
+    <string name="text_description_hint_form_task_fragment">Descreva a tarefa</string>
+    <string name="text_description_empty_form_task_fragment">Informe a descrição da tarefa</string>
+    <string name="text_status_form_task_fragment">Status</string>
+    <string name="text_btn_save_task_form_task_fragment">Salvar</string>
+    <string name="text_form_sucess_save_task_form_task_fragment">Tarefa salva com sucesso</string>
+    <string name="text_form_sucess_changed_task_form_task_fragment">Tarefa atualizada com sucesso</string>
+    <string name="text_erro_task_form_task_fragment">Erro ao salvar tarefa</string>
+
+    <!-- Erros Firebase Authentication-->
+    <string name="account_not_registered_register_fragment">Verifique e-mail e senha se estão corretos.</string>
+    <string name="invalid_email_register_fragment">Insira um e-mail válido.</string>
+    <string name="invalid_password_register_fragment">Senha inválida, tente novamente.</string>
+    <string name="email_in_user_register_fragment">Este e-mail já esta em uso.</string>
+    <string name="strong_password_register_fragment">Insira uma senha mais forte.</string>
+
+    <!-- Bottom Sheet -->
+    <string name="text_title_bottom_sheet">Atenção</string>
+    <string name="text_btn_bottom_sheet">OK</string>
+
+</resources>
